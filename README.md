@@ -1,5 +1,8 @@
 # AC_Restaurant_List
 
+<img width="938" alt="Restaurant_List" src="https://user-images.githubusercontent.com/97511253/217404601-192e6f34-32de-4535-978a-cfd9620359d8.png">
+
+
 AC_Restaurant_List is a mini project showcasing a pocket restaurant list, using a Template Engine, providing restaurant details and map links, and searchable from the search bar.
 
 ## Features
